@@ -41,7 +41,7 @@ A simple URL shortening service. Users can shorten URLs and get redirected to th
 
 ```console
 git clone https://github.com/pawelmieczkowski/LinkShortening.git
-cd flexlink-shortening/backend
+cd LinkShortening/backend
 ```
 
 2. Build and run the backend:

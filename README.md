@@ -40,7 +40,7 @@ A simple URL shortening service. Users can shorten URLs and get redirected to th
 1. Clone the repository:
 
 ```console
-git clone https://github.com/yourusername/flexlink-shortening.git
+git clone https://github.com/pawelmieczkowski/LinkShortening.git
 cd flexlink-shortening/backend
 ```
 

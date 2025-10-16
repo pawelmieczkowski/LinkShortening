@@ -74,7 +74,7 @@ npm run dev
 ```
 
 4. The frontend is available at: http://localhost:5173.
-5. 
+
 ## API Documentation (OpenAPI JSON)
 
 You can download the API definition [here](./api-docs.json)
